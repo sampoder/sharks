@@ -8,8 +8,8 @@ const Meta = ({
   title = 'The Singapore Sharks Football Club', // page title
   name = 'The Singapore Sharks Football Club', // site name
   description = 'The Singapore Sharks Football Club was formed in 2007 and is the only club in Singapore that offers Australian Football (AFL) primarily at the junior level. The club welcomes girls and boys from all nationalities, all schools and all abilities. We currently have over 400 passionate players, including well over 100 girls.', // page description
-  image = '', // social card image URL
-  url = 'https://next-theme-starter.vercel.app',
+  image = 'https://sg-sharks.vercel.app/girls_footy.jpg', // social card image URL
+  url = 'https://sg-sharks.vercel.app',
   children,
 }) => (
   <Head>
